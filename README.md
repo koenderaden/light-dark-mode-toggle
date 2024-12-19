@@ -30,7 +30,7 @@ Open http://localhost:3000 in your browser to view the toggle in action.
 
 🌐 Live Demo
 Check out the live version of this project on Vercel:
-Live Demo
+https://light-dark-mode-toggle-eta.vercel.app/
 
 📝 License
 This project is open source and available under the MIT License.
