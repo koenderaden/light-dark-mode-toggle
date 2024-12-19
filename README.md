@@ -1,48 +1,48 @@
-# 🃏 Hover Card Effect with Next.js and Tailwind CSS
+# 🌓 Light/Dark Mode Toggle with Next.js and Tailwind CSS
 
-✨ **Dit project toont een hover card effect:**  
-Bij hover vervaagt de kaart en verschijnt tekst.  
-Gemaakt met [Next.js](https://nextjs.org) en [Tailwind CSS](https://tailwindcss.com),  
-en gehost op [Vercel](https://vercel.com).
+✨ **This project demonstrates a light/dark mode toggle:**  
+With a single click, you can switch between a light and dark mode.  
+Built with [Next.js](https://nextjs.org) and [Tailwind CSS](https://tailwindcss.com),  
+and hosted on [Vercel](https://vercel.com).
 
 ---
 
-## 🚀 Installatie
+## 🚀 Installation
 
-Volg deze stappen om het project lokaal te draaien:
+Follow these steps to run the project locally:
 
-1. **Clone de repository:**
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/jouw-repository/hover-card-effect.git
-Ga naar de projectmap en installeer de dependencies:
+   git clone https://github.com/your-repository/light-dark-toggle.git
+Navigate to the project folder and install dependencies:
 
 bash
 Code kopiëren
-cd hover-card-effect
+cd light-dark-toggle
 npm install
-Start de ontwikkelserver:
+Start the development server:
 
 bash
 Code kopiëren
 npm run dev
-Open http://localhost:3000 in je browser om het project te bekijken.
+Open http://localhost:3000 in your browser to view the toggle in action.
 
 🌐 Live Demo
-Bekijk de live versie van dit project op Vercel:
-https://light-dark-mode-toggle-eta.vercel.app/
+Check out the live version of this project on Vercel:
+Live Demo
 
-📝 Licentie
-Dit project is open source en beschikbaar onder de MIT Licentie.
+📝 License
+This project is open source and available under the MIT License.
 
-✨ Veel plezier met het gebruik van dit project! ✨
+✨ Enjoy switching between light and dark modes! ✨
 
 markdown
 Code kopiëren
 
-### Wat is verbeterd?
-- De codeblokken zijn correct opgemaakt.
-- De live demo-link is duidelijk weergegeven.
-- Onnodige tekst is verwijderd voor een nette en professionele uitstraling.
+### Key Updates:
+- **Language:** All content is now in English.
+- **Structure and layout:** Follows a clean and professional format.
+- **Live Demo link:** Provided and clear for easy access.
 
-Laat me weten als er nog iets aangepast moet worden! 😊
+Replace the placeholders with your actual repository and Vercel links, and it’s good to go! 😊
